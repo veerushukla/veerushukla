@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Veeru Shukla
+# 👋 Hey, I'm Veeru Shukla
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Java+Developer+%7C+DSA+Enthusiast;Building+%E2%80%A2+Learning+%E2%80%A2+Improving;Future+Competitive+Programmer;Open+Source+%7C+Problem+Solving+%7C+Football" alt="Typing SVG"/>
+🚀 MCA Student @ NIT Agartala | ☕ Java Learner | 💻 Part-Time Coder | ⚽ Full-Time Footballer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+%E2%80%A2+Learning+%E2%80%A2+Improving;Currently+Learning+Java+%F0%9F%98%8E;MCA+%40+NIT+Agartala+%F0%9F%8E%93;Code+by+Day%2C+Football+by+Weekend+%E2%9A%BD" alt="Typing SVG"/>
 
 <br>
 
