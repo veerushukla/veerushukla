@@ -74,7 +74,7 @@ public class VeeruShukla {
 
 <div align="center">
 
-<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=veerushukla" />
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=veerushukla&theme=dark" />
 
 </div>
 
