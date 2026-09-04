@@ -1,4 +1,4 @@
-<img width="222" height="227" alt="image" src="https://github.com/user-attachments/assets/d7809a6a-bd1a-4290-8edb-721a5c639a70" /><img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/6c3af978-b3cc-42c5-a2a6-9e33cda51aae" /><div align="center">
+<div align="center">
 
 # 👋 Hey, I'm Veeru Shukla
 
@@ -62,13 +62,12 @@ public class VeeruShukla {
 
 <div align="center">
 
-<img height="180" src="./profile/stats.svg](https://commons.wikimedia.org/wiki/File:Octicons-mark-github.svg" alt="GitHub Stats" />
-
-<img height="180" src="./profile/top-langs.svg](https://toppng.com/free-image/java-logo-PNG-free-PNG-Images_472834" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=veerushukla&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerushukla&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img height="180" src="https://streak-stats.demolab.com?user=veerushukla&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=veerushukla&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -111,3 +110,4 @@ public class VeeruShukla {
 ⭐ If you find something useful here, consider giving a repository a star!
 
 </div>
+ there is error in fetching the resources that are in github analytics part 
