@@ -83,7 +83,7 @@ public class VeeruShukla {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=veerushukla&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=veerushukla&theme=dark" />
 
 </div>
 
