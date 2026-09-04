@@ -92,9 +92,9 @@ public class VeeruShukla {
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=veerushukla&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
+    
+ <img src="./profile/contributor-stats.svg" alt="GitHub Contribution Stats"/>
+ 
 </div>
 
 ---
@@ -106,4 +106,3 @@ public class VeeruShukla {
 ⭐ If you find something useful here, consider giving a repository a star!
 
 </div>
- there is error in fetching the resources that are in github analytics part 
