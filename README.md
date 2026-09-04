@@ -62,9 +62,9 @@ public class VeeruShukla {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=veerushukla&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerushukla&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
+<img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
 
 <br/>
 
