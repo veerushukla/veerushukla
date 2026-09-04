@@ -1,8 +1,8 @@
-# 👋 Hey, I'm Veeru Shukla
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Java+Developer+%7C+DSA+Enthusiast;Building+%E2%80%A2+Learning+%E2%80%A2+Improving;Future+Competitive+Programmer;Open+Source+%7C+Problem+Solving+%7C+Football" alt="Typing SVG" />
+# 👋 Veeru Shukla
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Java+Developer+%7C+DSA+Enthusiast;Building+%E2%80%A2+Learning+%E2%80%A2+Improving;Future+Competitive+Programmer;Open+Source+%7C+Problem+Solving+%7C+Football" alt="Typing SVG"/>
 
 <br>
 
@@ -25,35 +25,25 @@ public class VeeruShukla {
         "Problem Solving"
     };
 
-    String[] lookingToCollaborateOn = {
-        "Java Projects",
-        "DSA",
-        "Open Source"
-    };
-
-    String[] currentlyLearning = {
+    String[] learning = {
         "Advanced DSA",
-        "Competitive Programming",
-        "System Design"
+        "Competitive Programming"
     };
 
     String[] interests = {
-        "Programming",
         "Open Source",
+        "Programming",
         "Football"
     };
 
     String motto = "Consistency > Motivation";
-
 }
 ```
 
-### 🔥 What I'm up to
-
-* 🔭 Currently grinding **Data Structures & Algorithms**
-* 🌱 Learning **Java** and sharpening my problem-solving skills
-* 👯 Open to collaborating on **Java, DSA & Open Source projects**
-* 🤝 Looking for opportunities to learn **Advanced DSA & Competitive Programming**
+* 🔭 Currently focusing on **Data Structures & Algorithms**
+* 🌱 Learning **Java** and improving my problem-solving skills
+* 👯 Looking to collaborate on **Java, DSA & Open Source projects**
+* 🤝 Looking for guidance in **Advanced DSA & Competitive Programming**
 * 💬 Ask me about **Java, DSA, Programming & Football**
 * ⚡ **Cristiano Ronaldo** is my idol — his mentality inspires me to keep improving
 
@@ -63,19 +53,13 @@ public class VeeruShukla {
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,js,c" />
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb,git,github" />
+<img src="https://skillicons.dev/icons?i=java,js,c,nextjs,nodejs,mongodb,git,github" />
 
 </div>
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -90,26 +74,6 @@ public class VeeruShukla {
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=veerushukla&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=veerushukla&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
@@ -135,7 +99,7 @@ public class VeeruShukla {
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -160,9 +124,5 @@ public class VeeruShukla {
 ### ⚡ Code. Learn. Build. Repeat.
 
 **"The harder the battle, the sweeter the victory."**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" />
 
 </div>
