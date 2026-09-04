@@ -65,17 +65,7 @@ public class VeeruShukla {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=veerushukla&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerushukla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=veerushukla&theme=tokyonight&hide_border=true" />
+![](https://github-readme-stats.shion.dev/api?username=veerushukla&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://streak-stats.demolab.com/?user=veerushukla&theme=tokyonight&hide_border=false)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=veerushukla&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
