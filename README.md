@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Veeru Shukla
 
-### 🚀 MCA Student @ NIT Agartala | ☕ Java Learner | ⚽ Football Lover
+### 🚀 MCA Student @ NIT Agartala | ☕ Java Learner | Part Time Coder | ⚽ Full Time Footballer 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F3ACE&center=true&vCenter=true&width=650&lines=Building+%7C+Learning+%7C+Improving;Currently+learning+Java+%E2%98%95;MCA+%40+NIT+Agartala+%F0%9F%8E%93;Code+by+day%2C+football+by+weekend+%E2%9A%BD" alt="Typing SVG" />
 
