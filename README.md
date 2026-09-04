@@ -25,7 +25,7 @@ public class VeeruShukla {
 
 - 🎓 Pursuing **MCA at NIT Agartala**
 - ☕ Currently learning **Java** and strengthening my development fundamentals
-- 💻 Interested in **full-stack development** and building practical projects
+- 💻 Interested in **Software-Development** and building practical projects
 - ⚽ Football keeps me away from the keyboard sometimes
 - 🚀 Always learning, experimenting, and shipping
 
@@ -61,7 +61,6 @@ public class VeeruShukla {
 ## 📊 GitHub Analytics
 
 <div align="center">
-
 
 
 <img src="https://streak-stats.demolab.com/?user=veerushukla&theme=tokyonight&hide_border=true" />
