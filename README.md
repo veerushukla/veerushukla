@@ -25,6 +25,7 @@ public class VeeruShukla {
         "Data Structures & Algorithms",
         "Java",
         "Problem Solving"
+        "Mathematics"
     };
 
     String[] learning = {
